@@ -6,7 +6,9 @@
   <label for="email">Email:</label>
   <input type="text" id="email" name="email"></br>
   <label for="job">Job:</label>
-  <input type="text" id="job" name="job">
+  <input type="text" id="job" name="job"></br>
+  <label for="phone">Phone:</label>
+  <input type="text" id="phone" name="phone">
 </form>
 
 
