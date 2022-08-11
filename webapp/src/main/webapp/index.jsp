@@ -1,5 +1,5 @@
 <form>
-  <h1>Titre</h1>
+  <h1>Title</h1>
   <label for="fname">First name:</label>
   <input type="text" id="fname" name="fname"></br>
   <label for="lname">Last name:</label>
